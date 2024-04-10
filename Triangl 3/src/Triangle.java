@@ -12,4 +12,5 @@ public class Triangle {
         double p=(side1+side2+side3)/2;
         return Math.sqrt(p*(p-side1)*(p-side2)*(p-side3));
     }
+    public static boolean checkTriangleValid( double)
 }
